@@ -137,7 +137,7 @@ jupyter notebook notebooks/
 
 ## Autor
 
-**Rodrigo Presida** — Analista / Cientista de Dados
+**Rodrigo Cruz dos Santos** — Analista de Dados
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rodrigopresidati)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/RodrigoPresida)
