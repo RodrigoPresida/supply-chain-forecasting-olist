@@ -1,0 +1,9 @@
+data/raw/
+data/processed/*.csv
+__pycache__/
+*.pyc
+*.zip
+.ipynb_checkpoints/
+.env
+*.log
+CONTEXT.md
